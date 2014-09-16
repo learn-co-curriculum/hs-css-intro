@@ -12,11 +12,11 @@ By the end of this lesson, you will be able to:
 
 **1.** Explain the purpose of CSS
 
-**2.**explain the structure of css syntax
+**2.** Explain the structure of css syntax
 
 **3.** Link an html file to CSS
 
-**4.**select specific content to style using tag names, classes and ids
+**4.** Select specific content to style using tag names, classes and ids
 
 **5.** Center text using the text-align property
 
@@ -26,11 +26,11 @@ By the end of this lesson, you will be able to:
 
 **8.** Add background colors using the background property
 
-**9.**use hexadecimal, rgba, and rgb color values
+**9.** Use hexadecimal, rgba, and rgb color values
 
-**10.**master reading documentation of CSS properties
+**10.** Master reading documentation of CSS properties
 
-**11.**change the font of text using font-size font-family and color properties
+**11.** Change the font of text using font-size font-family and color properties
 
-**12.**move chunks of content around the page using the float property
+**12.** Move chunks of content around the page using the float property
 
