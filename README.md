@@ -18,5 +18,5 @@ type: intro
 
 ---
 ## What's all this CSS about?
-<img src="http://goingconcern.com/sites/default/files/zoolander.gif" width="600px" align="right" hspace="10"> CSS, Cascading Stylesheets, is another thing found on every single web page. We learned all about HTML, and how to mark up the content of our page, but now it's time to dive into making those pages look good.
+<img src="http://goingconcern.com/sites/default/files/zoolander.gif" width="400px" align="right" hspace="10"> CSS, Cascading Stylesheets, is another thing found on every single web page. We learned all about HTML, and how to mark up the content of our page, but now it's time to dive into making those pages look good. The way a website looks is vital to the user having a good experience of it. If you navigate to a website that looks like it was built in 1992, you're much less likely to take it seriously. So let's get stylish!
 
