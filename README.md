@@ -1,8 +1,4 @@
----
-tags: kids, intro, css
-languages: css
-type: intro
----
+
 ### Students Will Be Able To...
 + Explain the purpose and structure of CSS
 + Link an html file to CSS
